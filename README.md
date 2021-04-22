@@ -2,7 +2,8 @@
 ### Overview:
 The company would like you to generate a report that breaks down the game's purchasing data into meaningful insights. I am assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
 
-### Purpose:
+### Purpose: 
+I am assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli. I will be gathering the player count, purchasing analysis(age, total, gender), gender & age demographics, top spenders, and the most popular and profitable items.
 
 ### Observation/Conclusion:
 Of the total amount of players 84% were male.
